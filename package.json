@@ -1,0 +1,21 @@
+{
+  "name": "mernbackend",
+  "version": "1.0.0",
+  "description": "a basic code to deploy",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "chai",
+    "backend"
+  ],
+  "author": "ankush samyal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
